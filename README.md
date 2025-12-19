@@ -25,7 +25,7 @@ To run this game, you only need to have Python 3 installed on your machine. No e
 💻 How to Run
 Clone the repository:
 
-bash
+'''bash
 
 git clone https://github.com/Lokesh-7-gadham/rps_game.git
 
@@ -33,13 +33,13 @@ Navigate to the directory:
 
 bash
 
-cd rps_game
+'cd rps_game'
 
 Run the script:
 
 bash
 
-python rps_game.py
+'python rps_game.py'
 
 🕹️ How to Play
 When prompted, enter 1 for Rock, 2 for Paper, or 3 for Scissors.
