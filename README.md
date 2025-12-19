@@ -34,13 +34,13 @@ Navigate to the directory:
 
 bash
 
-cd rps_game
+`cd rps_game`
 
 Run the script:
 
 bash
 
-python rps_game.py
+`python rps_game.py`
 
 🕹️ How to Play
 When prompted, enter 1 for Rock, 2 for Paper, or 3 for Scissors.
