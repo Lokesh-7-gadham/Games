@@ -23,9 +23,10 @@ Scissors beats Paper.
 To run this game, you only need to have Python 3 installed on your machine. No external libraries are required.
 
 💻 How to Run
+
 Clone the repository:
 
-'''bash
+```bash
 
 git clone https://github.com/Lokesh-7-gadham/rps_game.git
 
