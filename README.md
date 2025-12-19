@@ -63,7 +63,7 @@ Implementing the Enum class to replace "magic numbers" with readable names.
 
 Handling string manipulation to clean up console output.
 
-Contributing
+🤝 Contributing
 
 Feel free to fork this repo and submit pull requests! Ideas for improvements:
 
@@ -73,6 +73,6 @@ More emojis or ASCII art
 
 GUI version with Tkinter
 
-License
+📜 License
 
 This project is open source and available under the MIT License.
