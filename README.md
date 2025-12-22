@@ -1,78 +1,111 @@
-🪨 📄 ✂️ Rock, Paper, Scissors - Python CLI
+# 🪨 📄 ✂️ Rock, Paper, Scissors – Python CLI
 
-A simple, interactive Rock-Paper-Scissors game built with Python. This project demonstrates basic programming concepts like loops, conditional logic, user input validation, and the use of Enums for cleaner code.
+A simple and interactive **Rock–Paper–Scissors** command-line game built with Python.  
+This project demonstrates core programming concepts such as conditional logic, user input validation, randomness, and the use of **Enums** for cleaner, more readable code.
 
-🚀 Features
+---
 
-Input Validation: The game ensures the user enters a valid number (1, 2, or 3) and exits gracefully if the input is invalid.
+## 🚀 Features
 
-Randomized AI: Uses Python's random module to provide a challenging computer opponent.
+- **Input Validation**  
+  Ensures the user enters a valid option (1, 2, or 3) and exits gracefully for invalid input.
 
-Replayability: A built-in loop allows you to play multiple rounds without restarting the script.
+- **Randomized Computer Choice**  
+  Uses Python’s `random` module to simulate the computer’s move.
 
-Clean Data Handling: Utilizes Python Enums to manage game choices, making the code more readable and maintainable.
+- **Clean Data Handling**  
+  Utilizes Python’s `Enum` class to avoid magic numbers and improve readability.
 
-🛠️ Logic Flow
+- **User-Friendly Output**  
+  Clear messages and emojis for better console experience.
+
+---
+
+## 🛠️ Game Logic
 
 The game follows the classic rules:
 
-Rock beats Scissors.
+- 🪨 Rock beats ✂️ Scissors  
+- 📄 Paper beats 🪨 Rock  
+- ✂️ Scissors beats 📄 Paper  
 
-Paper beats Rock.
+---
 
-Scissors beats Paper.
+## 📋 Prerequisites
 
-📋 Prerequisites
+- Python **3.x**
+- No external libraries required
 
-To run this game, you only need to have Python 3 installed on your machine. No external libraries are required.
+---
 
-💻 How to Run
+## 💻 How to Run
 
-Clone the repository:
+### Clone the repository
 ```bash
 git clone https://github.com/Lokesh-7-gadham/rps_game.git
 ```
 
-Navigate to the directory:
+### Navigate to the project folder
 ```bash
 cd rps_game
 ```
 
-Run the script:
+### Run the game
 ```bash
 python rps_game.py
 ```
 
-🕹️ How to Play
+---
 
-When prompted, enter 1 for Rock, 2 for Paper, or 3 for Scissors.
+## 🕹️ How to Play
 
-The computer will instantly make its choice.
+1. Enter:
 
-The winner is announced based on the rules.
+ 1. 1 for Rock
 
-Type Y to play another round or Q to quit.
+ 2. 2 for Paper
 
-🧠 What I Learned
+ 3. 3 for Scissors
 
-While building this, I practiced:
+2. The computer makes its choice instantly.
 
-Using the sys module for controlled program exiting.
+3. The winner is displayed based on the rules.
 
-Implementing the Enum class to replace "magic numbers" with readable names.
+---
 
-Handling string manipulation to clean up console output.
+## 🧠 What I Learned
 
-🤝 Contributing
+While building this project, I practiced:
 
-Feel free to fork this repo and submit pull requests! Ideas for improvements:
+1. Using the sys module for controlled program exits
 
-Add score tracking
+2. Implementing Enum to replace hard-coded values
 
-More emojis or ASCII art
+3. Validating user input effectively
 
-GUI version with Tkinter
+4. Writing clean and readable Python code
 
-📜 License
+5. Uploading and managing projects on GitHub
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repository and submit a pull request.
+
+Ideas for improvements:
+
+ 1. Add score tracking
+
+ 2. Add replay functionality
+
+ 3. Enhance UI with more emojis or ASCII art
+
+ 4. Create a GUI version using Tkinter
+
+---
+
+## 📜 License
 
 This project is open source and available under the MIT License.
