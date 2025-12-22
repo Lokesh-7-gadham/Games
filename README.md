@@ -61,11 +61,11 @@ python rps_game.py
 
 - Enter:
 
- 1. 1 for Rock
+  1 for Rock
 
- 2. 2 for Paper
+  2 for Paper
 
- 3. 3 for Scissors
+  3 for Scissors
 
 - The computer makes its choice instantly.
 
@@ -77,15 +77,15 @@ python rps_game.py
 
 While building this project, I practiced:
 
-1. Using the sys module for controlled program exits
+- Using the sys module for controlled program exits
 
-2. Implementing Enum to replace hard-coded values
+- Implementing Enum to replace hard-coded values
 
-3. Validating user input effectively
+- Validating user input effectively
 
-4. Writing clean and readable Python code
+- Writing clean and readable Python code
 
-5. Uploading and managing projects on GitHub
+- Uploading and managing projects on GitHub
 
 ---
 
@@ -96,13 +96,13 @@ Feel free to fork this repository and submit a pull request.
 
 Ideas for improvements:
 
- 1. Add score tracking
+ - Add score tracking
 
- 2. Add replay functionality
+ - Add replay functionality
 
- 3. Enhance UI with more emojis or ASCII art
+ - Enhance UI with more emojis or ASCII art
 
- 4. Create a GUI version using Tkinter
+ - Create a GUI version using Tkinter
 
 ---
 
