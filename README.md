@@ -59,7 +59,7 @@ python rps_game.py
 
 ## 🕹️ How to Play
 
-1. Enter:
+- Enter:
 
  1. 1 for Rock
 
@@ -67,9 +67,9 @@ python rps_game.py
 
  3. 3 for Scissors
 
-2. The computer makes its choice instantly.
+- The computer makes its choice instantly.
 
-3. The winner is displayed based on the rules.
+- The winner is displayed based on the rules.
 
 ---
 
